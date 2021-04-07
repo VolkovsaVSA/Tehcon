@@ -137,6 +137,7 @@
 		4A8BEE67261B6C41001C8D74 /* Extention+UIApplication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extention+UIApplication.swift"; sourceTree = "<group>"; };
 		4A8BEE6D261B6F86001C8D74 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		4A8BEE6E261B6F8D001C8D74 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4AC21B5B261D60C1001FF9EB /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
 		74E16E81FF3297BB4D445D7F /* Pods-Tehcon.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tehcon.release.xcconfig"; path = "Target Support Files/Pods-Tehcon/Pods-Tehcon.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -194,6 +195,7 @@
 				4A53E3ED261AE1A600356990 /* Info.plist */,
 				4A8BEE60261B627E001C8D74 /* Localizable.strings */,
 				4A8BEE5D261B627E001C8D74 /* InfoPlist.strings */,
+				4AC21B5B261D60C1001FF9EB /* Configuration.storekit */,
 				4A53E3EA261AE1A600356990 /* Preview Content */,
 			);
 			path = Tehcon;
@@ -689,7 +691,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "\"Tehcon/Preview Content\"";
 				DEVELOPMENT_TEAM = 7C46924T49;
 				ENABLE_PREVIEWS = YES;
@@ -713,7 +715,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "\"Tehcon/Preview Content\"";
 				DEVELOPMENT_TEAM = 7C46924T49;
 				ENABLE_PREVIEWS = YES;
