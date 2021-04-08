@@ -139,10 +139,10 @@ struct CalcView: View {
 
                 VStack {
                     Spacer()
-//                    if !UserDefaults.standard.bool(forKey: UDKeys.fv) {
-//                        adsBanner(geometry: geometry)
-//                            .ignoresSafeArea()
-//                    }
+                    if !UserDefaults.standard.bool(forKey: UDKeys.fv) {
+                        adsBanner(geometry: geometry)
+                            .ignoresSafeArea()
+                    }
                 }
                 .ignoresSafeArea()
             }
