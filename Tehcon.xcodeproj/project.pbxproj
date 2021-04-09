@@ -53,7 +53,6 @@
 		4A53E459261AE1F300356990 /* UnitElectricChargeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A53E441261AE1F300356990 /* UnitElectricChargeModel.swift */; };
 		4A53E45A261AE1F300356990 /* UnitDurationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A53E442261AE1F300356990 /* UnitDurationModel.swift */; };
 		4A53E460261AE1FE00356990 /* IAPManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A53E45D261AE1FE00356990 /* IAPManager.swift */; };
-		4A53E461261AE1FE00356990 /* AMPLocalizeUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A53E45E261AE1FE00356990 /* AMPLocalizeUtils.swift */; };
 		4A53E462261AE1FE00356990 /* AdsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A53E45F261AE1FE00356990 /* AdsManager.swift */; };
 		4A53E46D261AE20700356990 /* UDKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A53E465261AE20700356990 /* UDKeys.swift */; };
 		4A53E46E261AE20700356990 /* SheetTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A53E466261AE20700356990 /* SheetTypes.swift */; };
@@ -120,7 +119,6 @@
 		4A53E441261AE1F300356990 /* UnitElectricChargeModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnitElectricChargeModel.swift; sourceTree = "<group>"; };
 		4A53E442261AE1F300356990 /* UnitDurationModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UnitDurationModel.swift; sourceTree = "<group>"; };
 		4A53E45D261AE1FE00356990 /* IAPManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IAPManager.swift; sourceTree = "<group>"; };
-		4A53E45E261AE1FE00356990 /* AMPLocalizeUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AMPLocalizeUtils.swift; sourceTree = "<group>"; };
 		4A53E45F261AE1FE00356990 /* AdsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdsManager.swift; sourceTree = "<group>"; };
 		4A53E465261AE20700356990 /* UDKeys.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UDKeys.swift; sourceTree = "<group>"; };
 		4A53E466261AE20700356990 /* SheetTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SheetTypes.swift; sourceTree = "<group>"; };
@@ -330,7 +328,6 @@
 			isa = PBXGroup;
 			children = (
 				4A53E45D261AE1FE00356990 /* IAPManager.swift */,
-				4A53E45E261AE1FE00356990 /* AMPLocalizeUtils.swift */,
 				4A53E45F261AE1FE00356990 /* AdsManager.swift */,
 			);
 			path = Managers;
@@ -529,7 +526,6 @@
 				4A53E462261AE1FE00356990 /* AdsManager.swift in Sources */,
 				4A53E417261AE1DD00356990 /* FeedbackButtonView.swift in Sources */,
 				4A53E452261AE1F300356990 /* UnitElectricCurrentModel.swift in Sources */,
-				4A53E461261AE1FE00356990 /* AMPLocalizeUtils.swift in Sources */,
 				4A53E46E261AE20700356990 /* SheetTypes.swift in Sources */,
 				4A53E413261AE1DD00356990 /* ProportionView.swift in Sources */,
 				4A53E40F261AE1DD00356990 /* CalcView.swift in Sources */,

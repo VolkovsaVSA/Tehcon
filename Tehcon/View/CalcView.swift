@@ -167,7 +167,7 @@ struct CalcView: View {
     }
     
     private func adsBanner(geometry: GeometryProxy) -> some View {
-        let height: CGFloat = 90
+        let height: CGFloat = 60
         
         if geometry.size.height > geometry.size.width {
             return AdsManager.BannerVC(size: CGSize(width: geometry.size.width, height: height))
